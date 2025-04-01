@@ -41,7 +41,7 @@ This FastAPI application uses advanced language models to provide accurate answe
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/nithin-gram/tdsproject2.git
+git clone https://github.com/kethavathsundar/Tds_Project_2.git
 cd tdsproject2
 ```
 
